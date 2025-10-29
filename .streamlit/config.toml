@@ -1,0 +1,3 @@
+[global]
+# Memaksa Streamlit Cloud menggunakan Python 3.9, yang lebih stabil
+python_version = 3.9
